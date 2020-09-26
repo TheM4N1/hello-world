@@ -1,3 +1,3 @@
 # hello-world
 my first git experience
-made a mistake early
+just a edit to see how branch works two
